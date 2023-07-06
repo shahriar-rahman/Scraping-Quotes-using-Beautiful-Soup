@@ -2,7 +2,7 @@
 A simple, clean script for scraping and storing web-scraping data for beginners using the Beautiful Soup library.  
 
 <div align="center">
-    <img width="85%%" src="img/bs4logo.jpg" alt="bs4a.jpg" >
+    <img width="85%%" src="img/bs4logo.jpg" alt="bs4.jpg" >
 </div>
 
 ## Introduction
