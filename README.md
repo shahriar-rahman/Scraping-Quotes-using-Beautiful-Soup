@@ -20,6 +20,9 @@ In order to *install* bs4 on the local machine, follow these steps:
 2. To install the Pandas Library, type "pip install pandas".
 3. Then, inside the IDE, import the libraries by typing "from bs4 import BeautifulSoup", and on the next line "import pandas" to successfully load the packages to be used for any project.
 
+For more detailed information, visit the following site:
+[](https://pypi.org/project/beautifulsoup4/)
+
 ## Objective
 The primary objective is to illustrate an example of a simple bs4 script from the site "https://quotes.toscrape.com/". 
 
