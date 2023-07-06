@@ -6,7 +6,7 @@ A simple, clean script for scraping and storing web-scraping data for beginners 
 </div>
 
 ## Introduction
-*Beautiful Soup (bs4)* is a Python library for fetching web data out of HTML and XML scripts. It functions with a specific set of parsers to provide idiomatic ways of navigating through the DOM structure, searching, and modifying the parse tree.
+The *Beautiful Soup (bs4)* is a Python library for fetching web data out of HTML and XML scripts. It functions with a specific set of parsers to provide idiomatic ways of navigating through the DOM structure, searching, and modifying the parse tree.
 
 ## Objective
 The primary objective is to illustrate an example of a simple *bs4* script from the site https://quotes.toscrape.com/. In this project, Beautiful Soup and Pandas libraries are utilized to extract the data and store it in memory respectively.
