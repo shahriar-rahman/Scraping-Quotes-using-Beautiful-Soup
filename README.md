@@ -1,8 +1,8 @@
 # **Scraping Quotes Using Beautiful Soup**
-A Knowledge base for solving various queries derived from an AI-based Decision Tree. 
+A simple, clean script for scraping and storing web-scraping data for beginners using the Beautiful Soup library.  
 
 <div align="center">
-    <img width="65%%" src="img/clipslogo.png" alt="clips.png" >
+    <img width="65%%" src="img/bs4logo.JPG" alt="bs4.jpg" >
 </div>
 
 ## Abstract
