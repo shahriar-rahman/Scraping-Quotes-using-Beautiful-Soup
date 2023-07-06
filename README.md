@@ -8,6 +8,9 @@ Beautiful Soup (bs4) is a Python library for fetching web data out of HTML and X
     <img width="85%%" src="img/bs4logo.JPG" alt="bs4.jpg" >
 </div>
 
+## Objective
+The primary objective is to illustrate an example of a simple bs4 script from the site "https://quotes.toscrape.com/". In this project, Beautiful Soup and Pandas libraries are utilized to extract the data and store it in memory respectively.
+
 ## Modules and Tools used:
 * beautifulsoup4 4.12.2
 * pandas 2.0.0
@@ -22,6 +25,3 @@ In order to *install* bs4 on the local machine, follow these steps:
 
 For more detailed information, visit the following site:
 "https://pypi.org/project/beautifulsoup4/"
-
-## Objective
-The primary objective is to illustrate an example of a simple bs4 script from the site "https://quotes.toscrape.com/". In this project, Beautiful Soup and Pandas libraries are utilized to extract the data and store it in memory respectively.
