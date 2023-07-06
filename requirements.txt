@@ -1,0 +1,8 @@
+# local package
+-e .
+
+# requirements
+* python 3.11
+* beautifulsoup4 4.12.2
+* pandas 2.0.0
+python-dotenv>=0.5.1
